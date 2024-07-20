@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html land="eng">
+
+<head>
+  <meta charset="UTF-8">
+  <title>pupsa</title>
+</head>
+
+<body>
+  <div>
+    <h1>Новый напиток PUPSA®</h1>
+    <p> Nikon™ </p>
+    <img scr="" />
+    <hr>
+  </div>
+  <div>
+    <h2>Кратко про Nikon™</h2>
+    <p>Nikon - пищевая компания, крупнейший мировой производитель и поставщик концентратов, сиропов и безалкогольных напитков. Наиболее известным продуктом компании является напиток Cuca-Cila. Штаб-квартира находится в Украине, Одесса. </p>
+    <p>Так же Nikon популярен по всему миру и скоро выпустит свой новый напиток PUPSA с 6 разными вкусами.</p>
+    <hr>
+    <h2>Вкусы PUPSA</h2>
+    <table>
+      <thead>
+        <th>Apple with cherry</th>
+        <th>Mango and banana</th>
+        <th>Pineapple n raspberry</th>
+        <th>Blueberry</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>(Яблоко и вишня)</td>
+          <td>(Манго и банан)</td>
+          <td>(Ананас и малина)</td>
+          <td>(Голубика)</td>
+        </tr>
+        <tr>
+          <td>Расслабляющий вкус</td>
+          <td>Бодрящий вкус</td>
+          <td>Успокаювающий вкус</td>
+          <td>Освежающий вкус</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+    <div>
+      <h3>Команда проекта</h3>
+      <table>
+        <thead>
+          <th>Bobasik</th>
+          <th>Nikanerik</th>
+          <th>Lahman</th>
+          <th>Lolpa</th>
+        </thead>
+        <tbody>
+          <tr>
+            <td>34 года</td>
+            <td>25 лет </td>
+            <td>38 лет</td>
+            <td>22 года</td>
+          </tr>
+          <tr>
+            <td>Женат, трое детей</td>
+            <td>Не женат</td>
+            <td>Женат, без детей</td>
+            <td>Не женат</td>
+          </tr>
+        </tbody>
+      </table>
+</body>
+
+</html>
