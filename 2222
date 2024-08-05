@@ -4,6 +4,19 @@
 <head>
   <meta charset="UTF-8">
   <title>pupsadsss</title>
+  <style type="">
+    TABLE {
+     width: 300px;
+     border-collapse: collapse;
+    }
+    TD, TH {
+     padding: 3px;
+     border: 1px solid black;
+    }
+    TH {
+     background: #00ec8ae1;
+    }
+   </style>
 </head>
 
 <body>
@@ -15,7 +28,6 @@
     <li>Information</li>
     <li>Supporting countries</li>
     <li>Tastes</li>
-    <li>Project</li>
     <li>Team of creators</li>
   </nav>
   <h2>Кратко про Nikon™</h2>
@@ -61,12 +73,15 @@
   </table>
   <hr>
   <h2>Команда проекта</h2>
+  <p><mark>Team of creators</mark></p>
   <table>
     <thead>
-      <th>Bobasik</th>
-      <th>Nikanerik</th>
-      <th>Lahman</th>
-      <th>Lolpa</th>
+      <tr>
+        <th>Bobasik</th>
+        <th>Nikanerik</th>
+        <th>Lahman</th>
+        <th>Lolpa</th>
+      </tr>
     </thead>
     <tbody>
       <tr>
@@ -84,6 +99,7 @@
     </tbody>
   </table>
   <footer>Nikon™ (2008-2024)</footer>
-</body>
 
+
+</body>
 </html>
