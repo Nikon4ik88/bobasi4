@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Buton4ik</title>
+</head>
+<body>
+  <input  type="range" id="popo" name="popo" value="100" min="0" max="11" value="10" step="9" />
+</body>
+</html>
