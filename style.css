@@ -1,0 +1,43 @@
+.zagov {
+    text-align: center;
+}
+.oko {
+    background-color: darkorange;
+    color: rgb(0, 0, 0);
+    width: 500px;
+    padding: 10px;
+  }
+.prod {
+    text-align: center;
+    position: relative;
+    bottom: 310px;
+    right: 220px;
+}
+.korotko {
+    position: relative;
+    left: 70px;
+
+}
+body {
+    background-color: gray;
+}
+.prodt {
+    background-color: darkorange;
+    color: rgb(0, 0, 0);
+    width: 200px;
+    padding: 10px;
+    left: 600px;
+    bottom: 310px;
+    position: relative;
+    
+}
+.lol {
+    border-color: black;
+}
+.vidos {
+    bottom: 500px;
+    position: relative;
+}
+.nikon {
+    width: 100px;
+}
