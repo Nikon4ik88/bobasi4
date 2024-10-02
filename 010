@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+    <link rel="stylesheet" href="stoil.css">
+  </head> 
+<body>
+  <h1>Война и Мир.</h1>
+  <p>«Война и мир» — огромная сага, с равной глубиной рассказывающая о событиях различного масштаба: от частной жизни нескольких семей и конкретных сражений 1812 года до движения народов и истории вообще. Благодаря масштабу замысла, точности психологических наблюдений и жанровой универсальности эпопея Толстого остаётся в культурной памяти главным русским романом.</p>
+</body> 
+</html>  
+                  CSS
+h1 {
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+p {
+    font-size: medium;
+    font-family: cursive;
+    text-align: center;
+    line-height: 22px;
+}
+body {
+    color: blue;
+    text-transform: none;
+    background-color: black;
+}
