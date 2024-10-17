@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+    <link rel="stylesheet" href="012.css">
+
+<body>
+    <div class="bob">
+      <div class="box1">BOBOBOB</div>
+      <div class="box2">LOLO</div>
+      <div class="box3">POPPO</div>
+    </div>
+</body>
+
+</html>
+                      CSS
+.box1 {
+    background-color: black;
+    color: aliceblue;
+    border: 5px solid white;
+    margin: 20px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70px;
+    text-align: center;
+}
+.box2 {
+    background-color: rgb(219, 118, 118);
+    color: black;
+    border: 5px solid rgb(85, 11, 85);
+    box-shadow: 2px 2px 20px #ffffff;
+    margin: 20px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70px;
+    text-align: center;
+}  
+.box3 {
+    background-color: rgba(161, 0, 0, 0.5);
+    color: rgb(255, 255, 255);
+    border: 5px solid rgb(0, 97, 77);
+    margin: 20px;
+    height: 70px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    
+}
+.bob {
+    padding: 40px;
+    
+}
